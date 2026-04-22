@@ -1,0 +1,1 @@
+# cookiecutter-method-template
