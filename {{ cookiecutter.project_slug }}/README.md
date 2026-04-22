@@ -220,5 +220,5 @@ Ensure you follow the [XXX Terms of Service](https://example.com) when using thi
 <!-- 
 1. The contact details section should specify whom to contact for questions or contributions and how (can be separate entitites; for example email addresses or links to the GitHub issue board).
 -->
-In case of questions, contact [{{ cookiecutter.firstname }}{{ cookiecutter.lastname }}](mailto:XXX).
+In case of questions, contact [{{ cookiecutter.author_firstname }}{{ cookiecutter.author_lastname }}](mailto:XXX).
 For contributions and bug reports, open an issue at [{{ cookiecutter.project_name }}](https://example.com).
