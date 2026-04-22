@@ -1,5 +1,8 @@
 {
-  "project_name": "MethodsHub method template",
+  "project_name": "Method name",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-  "author": "Taimoor Khan"
+  "author_firstname": "Taimoor",
+  "author_lastname" : "Khan"
+  "date_modified": "{{ cookiecutter._current_time.strftime('%Y-%m-%d') }}",
+  "orcid": "Please provide your ORCID: "
 }
