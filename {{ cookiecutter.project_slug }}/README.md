@@ -1,4 +1,4 @@
-# {{ cookiecutter.project_slug }}
+# {{ cookiecutter.project_name }}
 <!--
 General specifications:
 - This specification of the Methods Hub friendly README often uses the word 'should' to indicate the usual case. If you feel you need to do it differently, add a comment to argue for your case when you submit your method.
@@ -220,5 +220,5 @@ Ensure you follow the [XXX Terms of Service](https://example.com) when using thi
 <!-- 
 1. The contact details section should specify whom to contact for questions or contributions and how (can be separate entitites; for example email addresses or links to the GitHub issue board).
 -->
-In case of questions, contact [XXX](mailto:XXX).
-For contributions and bug reports, open an issue at [XXX](https://example.com).
+In case of questions, contact [{{ cookiecutter.firstname }}{{ cookiecutter.lastname }}](mailto:XXX).
+For contributions and bug reports, open an issue at [{{ cookiecutter.project_name }}](https://example.com).
