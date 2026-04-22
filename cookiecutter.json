@@ -4,5 +4,8 @@
   "author_firstname": "",
   "author_lastname": "",
   "author_orcid": "Please provide your ORCID:",
-  "date": "yyyy-mm-dd"
+  "author_github_handle": "https://github.com/XXX",
+  "author_email": "",
+  "GitHub_method_repository_name": "",
+  "date today": "yyyy-mm-dd"
 }
