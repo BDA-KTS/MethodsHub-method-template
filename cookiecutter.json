@@ -2,7 +2,7 @@
   "project_name": "Methods Hub method name",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
   "author_firstname": "Taimoor",
-  "author_lastname" : "Khan",
-  "author_orcid": "Please provide your ORCID: ",
-  "date": "{{ cookiecutter._current_time.strftime('%Y-%m-%d') }}"
+  "author_lastname": "Khan",
+  "author_orcid": "Please provide your ORCID:",
+  "date": "enter date today"
 }
